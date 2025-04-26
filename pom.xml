@@ -47,7 +47,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>net.oussama.App1</mainClass> <!-- Main class containing your main method -->
+                            <mainClass>net.oussama.Main</mainClass> <!-- Main class containing your main method -->
                         </manifest>
                     </archive>
                 </configuration>
